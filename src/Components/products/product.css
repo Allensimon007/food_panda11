@@ -1,0 +1,24 @@
+.cart{
+    border-radius: 10px;
+    background-color: burlywood;
+    padding: 5px;
+    border: 2px solid black;
+}
+.cart:hover{
+    background-color: white;
+    color: gray;
+
+}
+
+.cart_card{
+    align-items: center;
+    text-align: center;
+    
+}
+.images{
+    height: 170px;
+    width: 150px;
+    margin-left: 50px ;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

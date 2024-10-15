@@ -1,0 +1,49 @@
+.MainLeft{
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.welcome-aside{
+    height: 75vh;
+    display: flex;
+    flex-direction: row;
+    flex: wrap;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.MainLeft h1{
+    font-size: 80px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+p{
+    width: 50%;
+    text-align: left;
+    font-size: large;
+    gap: 2;
+    margin-bottom: 30px;
+}
+.MainLeft button{
+    border-radius: 50px;
+    border: 2px solid gray;
+    background-color: rgb(65, 122, 145);
+    padding: 5px 10px;
+    margin-top: 50px;
+    width: 40%;
+}
+.MainLeft{
+    display: flex;
+    flex-direction: column;
+}
+
+.welcome-section{
+    display: flex;
+    flex-direction: row;
+}
+.image{
+
+    margin-top: 100px;
+    margin-right: 80px;
+    filter: drop-shadow(0.35rem 00.35rem 0.4rem rgba(0,0,0,0.5));
+    
+}
